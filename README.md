@@ -138,7 +138,7 @@ The dataset used in this project is the [Crop Recommendation Dataset](https://ww
 
 ![N, P, K, values comparison between crops](https://github.com/user-attachments/assets/a403d320-5272-4382-904f-1a50c0db0b8c)
 
-###
+###Comparison between rainfall, temperature and humidity
 
 ![Comparison between rainfall, temperature and humidity](https://github.com/user-attachments/assets/f8c714d9-9268-40a2-b867-063023bca48a)
 
@@ -154,4 +154,4 @@ The dataset used in this project is the [Crop Recommendation Dataset](https://ww
 
 ![Models' Accuracy](https://github.com/user-attachments/assets/9c8a426a-174d-4a64-993c-17fcbcb255b9)
 
----
+
