@@ -135,7 +135,7 @@ I. DEPI Organizers for providing a structured learning track and valuable resour
   
   -  [Ibrahim Hegazi](https://www.linkedin.com/in/ibrahim-hegazi-9ba3a5269/)
   
-  -  [Ibrahim Al Banawy](www.linkedin.com/in/ibrahim-al-banawy/)
+  -  [Ibrahim Al Banawy](https://www.linkedin.com/in/ibrahim-al-banawy/)
   
 - Your support and encouragement were instrumental in the successful completion of this project.
 
