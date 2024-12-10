@@ -44,7 +44,7 @@ This project focuses on analyzing agricultural data and applying machine learnin
 
 ## Dataset
 
-The dataset used in this project is the [Crop Recommendation Dataset]([https://github.com/datasets](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset)) containing detailed agricultural and environmental data.
+The dataset used in this project is the [Crop Recommendation Dataset]((https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset)) containing detailed agricultural and environmental data.
 
 ---
 
