@@ -119,10 +119,10 @@ The dataset used in this project is the [Crop Recommendation Dataset](https://ww
 
 ## Acknowledgments
 
-- Special thanks to our team and mentors for their invaluable guidance.
+- [Video for Special Thanks](https://www.youtube.com/watch?v=wGRF3GQ4Wdk&t=3s&ab_channel=LATINAINCA)
 - Gratitude to the creators of the Crop Recommendation Dataset for their comprehensive dataset.
-- []
-I. DEPI Organizers for providing a structured learning track and valuable resources.
+
+   I. [Mansoura University Faculty of Computer and Information Sciences](https://www.linkedin.com/company/faculty-of-computer-information-sciences-mansoura-university/).
 
    II. Our Mentors [Prof. Sara El Metwally](https://www.linkedin.com/in/sara-el-sayed-el-metwally-27112523/) and [Eng. Leqaa Hani](https://www.linkedin.com/in/leqaa-hani/) for their continuous guidance throughout the AI curriculum.
 
@@ -131,7 +131,7 @@ I. DEPI Organizers for providing a structured learning track and valuable resour
   
   -  [Ahmed Osama](https://www.linkedin.com/in/ahmed-zain-738706315/)
   
-  -  [Ahmed Khalaf](https://www.linkedin.com/in/ashrf-morgan-2a6909254/)
+  -  [Ahmed Khalaf](https://www.linkedin.com/in/a-cr7-701b56268/)
   
   -  [Ibrahim Hegazi](https://www.linkedin.com/in/ibrahim-hegazi-9ba3a5269/)
   
