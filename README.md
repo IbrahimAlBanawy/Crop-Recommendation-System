@@ -36,6 +36,8 @@ An advanced data science project aimed at recommending the *most suitable crops*
 
 This project focuses on analyzing agricultural data and applying machine learning techniques to provide actionable insights for farmers and agribusinesses. By recommending suitable crops based on key parameters like nitrogen, phosphorus, potassium levels, and weather data, this system supports *precision agriculture* and promotes sustainable farming practices.
 
+# [Presentation Video](https://youtu.be/AeOzYP63KOI)
+
 ---
 
 ## Project Goals
