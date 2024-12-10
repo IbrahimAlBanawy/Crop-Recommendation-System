@@ -134,16 +134,24 @@ The dataset used in this project is the [Crop Recommendation Dataset](https://ww
 
 ## Sample Work
 
-### Bar Chart - Nutrient Comparison by Crop
+### N, P, K, values comparison between crops
 
-![Sample Work 1](assets/Accuracy Comparison.jpg)
+![N, P, K, values comparison between crops](https://github.com/user-attachments/assets/a403d320-5272-4382-904f-1a50c0db0b8c)
+
+###
+
+![Comparison between rainfall, temperature and humidity](https://github.com/user-attachments/assets/f8c714d9-9268-40a2-b867-063023bca48a)
 
 ### Heatmap - Feature Correlation
 
-![Sample Work 2](assets/your_image_path)
+![Correlation between features](https://github.com/user-attachments/assets/961a7ccf-3233-4a27-9a4a-89d3ebf0ab6c)
+
+### Bar Chart - Nutrient Comparison by Crop
+
+![Accuracy Comparison](https://github.com/user-attachments/assets/9323313b-e45e-48cd-9ec4-9bd0e38fb3ff)
 
 ### Model Performance Comparison
 
-![Sample Work 3](https://github.com/user-attachments/assets/your_image_path)
+![Models' Accuracy](https://github.com/user-attachments/assets/9c8a426a-174d-4a64-993c-17fcbcb255b9)
 
 ---
