@@ -24,7 +24,11 @@ An advanced data science project aimed at recommending the *most suitable crops*
 
 ## Contributors
 
-- [Ibrahim Hegazi](https://github.com/Ibrahim-Hegazi) - EDA, Visualization, and Model Implementation
+- [Ibrahim Anter] - Idea Generation
+- [Ahmed Osama] - Proposal Maker
+- [Ibrahim Hegazi](https://github.com/Ibrahim-Hegazi) - EDA and Visualization
+- [Ahmed Khalaf] - Model Implementation
+- [Ibrahim Al Banawy](https://github.com/IbrahimAlBanawy) - Video Presenter
 
 ---
 
