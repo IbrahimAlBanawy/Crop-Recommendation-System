@@ -136,7 +136,7 @@ The dataset used in this project is the [Crop Recommendation Dataset](https://ww
 
 ### Bar Chart - Nutrient Comparison by Crop
 
-![Sample Work 1](https://github.com/user-attachments/assets/your_image_path)
+![Sample Work 1](https://github.com/IbrahimAlBanawy/assets/Accuracy Comparison.jpg)
 
 ### Heatmap - Feature Correlation
 
